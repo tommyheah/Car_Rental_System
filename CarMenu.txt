@@ -1,0 +1,10 @@
+ABB1011 Honda City 36.00 Red
+ABC2022 Honda CR-V 45.00 Blue
+BNM5105 Nissan Latio 25.00 Silver
+BKL8915 Nissan Livina 30.00 White
+CUL8088 Proton X70 55.00 Black
+CJK1099 Proton X50 52.00 Silver
+KKL2155 Proton Persona 24.00 Brown
+KJU5161 Perodua Alza 28.00 Red
+PCA3033 Toyota Vios 34.00 Grey
+PBB4044 Toyota Cross 48.00 Green
